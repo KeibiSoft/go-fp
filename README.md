@@ -1,4 +1,5 @@
 # go-fp
+![go-fp logo](./go-fp.png)
 
 `go-fp` provides generic, chainable wrappers in Go for semi-functional programming with robust error handling, enabling a clear, composable style of coding.
 
